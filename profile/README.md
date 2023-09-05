@@ -1,4 +1,5 @@
 # Dr.Pong
+### Online RealTime Chatting & Pong Game Service
 
 <img width="250" alt="Screenshot 2023-09-05 at 1 20 55 PM" src="https://github.com/Dr-Pong/.github/assets/90181905/0f21f664-f8b5-4fbc-9733-a57f240859f2">
 
