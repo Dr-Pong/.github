@@ -1,4 +1,3 @@
-![game](https://github.com/Dr-Pong/.github/assets/86540825/c14455e6-885c-4485-8794-819bf656d807)# Dr.Pong
 ### Online RealTime Chatting & Pong Game Service
 
 <img width="250" alt="image" src="https://github.com/Dr-Pong/.github/assets/86540825/fd95f2bd-2245-4546-955a-5af1b982350a">
